@@ -1,4 +1,5 @@
 * {
+  colour:white;
   margin:0px;
   padding:0px;
 }
@@ -7,11 +8,13 @@
   display: block;
   width:384px;
   margin: 50px auto;
+  backgrond-colour:black;
 }
 
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
+  color:red;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
